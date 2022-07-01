@@ -1,0 +1,15 @@
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\Geek\Lesson 2\Homework\task2\bin\Debug\net6.0\task2.exe
+C:\Geek\Lesson 2\Homework\task2\bin\Debug\net6.0\task2.deps.json
+C:\Geek\Lesson 2\Homework\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\Geek\Lesson 2\Homework\task2\bin\Debug\net6.0\task2.dll
+C:\Geek\Lesson 2\Homework\task2\bin\Debug\net6.0\task2.pdb
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.dll
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\refint\task2.dll
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.pdb
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\Geek\Lesson 2\Homework\task2\obj\Debug\net6.0\ref\task2.dll
