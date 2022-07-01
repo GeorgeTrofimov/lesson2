@@ -1,0 +1,15 @@
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+C:\Geek\Lesson 2\Homework\task4\bin\Debug\net6.0\task4.exe
+C:\Geek\Lesson 2\Homework\task4\bin\Debug\net6.0\task4.deps.json
+C:\Geek\Lesson 2\Homework\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+C:\Geek\Lesson 2\Homework\task4\bin\Debug\net6.0\task4.dll
+C:\Geek\Lesson 2\Homework\task4\bin\Debug\net6.0\task4.pdb
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.dll
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\refint\task4.dll
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.pdb
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+C:\Geek\Lesson 2\Homework\task4\obj\Debug\net6.0\ref\task4.dll
